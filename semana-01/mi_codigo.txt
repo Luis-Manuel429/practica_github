@@ -1,15 +1,15 @@
 Algoritmo CompararNumeros
-	definir n1,n2 Como Entero
+	definir n1,n2 Como Entero;
 	escribir "escribe dos numeros para comparar";
 	leer n1;
 	leer n2;
-	si n1 > n2 Entonces
-		escribir "el ",n1," es mayor";
+	si n1 > n2 Entonces;
+		escribir "el ",n1," es mayor que ", n2;
 	SiNo
-		si n2 > n1 Entonces
-			Escribir "el ",n2," es mayor";
+		si n2 > n1 Entonces;
+			Escribir "el ",n2," es mayor que ", n1;
 		SiNo
-			escribir " los numero son iguales";
+			escribir " los dos numeros son iguales";
 		FinSi
 	FinSi
 FinAlgoritmo
