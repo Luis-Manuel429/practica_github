@@ -13,3 +13,6 @@ Algoritmo CompararNumeros
 		FinSi
 	FinSi
 FinAlgoritmo
+
+ID: 6BB36A80
+Name: Luis Manuel Narvaez Espinal
