@@ -8,3 +8,9 @@ practicas para el uso de repositorio en github y github Desktop
 
 ## Contenido
 Contiene ejercicios básicos de seudocodigo
+
+
+
+
+#Hola profe
+Soy tommy Hernandez y esta es mi rama 
